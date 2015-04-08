@@ -1,3 +1,0 @@
-Note this interacts heavy with Scene, in general this just calls methods from scene
-
-Loop()
